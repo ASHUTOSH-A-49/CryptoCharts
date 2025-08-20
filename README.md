@@ -4,6 +4,10 @@
 
 CryptoCharts is a single-page web application designed to be a comprehensive dashboard for the cryptocurrency market. The application provides up-to-date information on global cryptocurrency statistics, individual coin details, exchange data, and a live news feed. Built with a modern front-end stack, it offers a fast, responsive, and intuitive user experience.
 
+### Live Demo
+
+You can view the live project here: [https://crypto-charts-0.netlify.app/](https://crypto-charts-0.netlify.app/)
+
 ### Key Features
 
 * **Global Stats:** 🌐 Displays real-time global cryptocurrency market statistics.
